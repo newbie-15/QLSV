@@ -1,1 +1,1 @@
-Thành quả đầu tay tuy không lớn nhưng nó cũng quá nhỏ.
+Code còn nhiều lỗi nên anh em thông cảm ^^.

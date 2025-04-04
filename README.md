@@ -1,1 +1,1 @@
-Code còn nhiều lỗi nên anh em thông cảm ^^.
+Share free code cho ae về edit or reasearch.

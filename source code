@@ -74,6 +74,7 @@ void xoaSV(SinhVien x[], int *n, char name[]){
 				x[i] = x[i+1];
 				cnt = 1;
 			}
+			--i;//giam i di 1 don vi de vong lap tiep tuc check lai vi tri nay co thoa man dieu kien tren khong!
 			(*n)--; //truy cap vao dia chi cua n va giam di 1 don vi
 		}
 		
